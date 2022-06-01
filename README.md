@@ -7,8 +7,9 @@
 - :headphones: I'm always listening to music and on the hunt for a new podcast
 - :mage: Lord of the Rings is my favourite triology
 
-[![Linkedin Badge](https://img.shields.io/badge/-CharlotteLucas-white?style=for-the-badge&logo=Linkedin&logoColor=0077b5&link=https://www.linkedin.com/in/charlotte-lucas-31544b32/)](https://www.linkedin.com/in/charlotte-lucas-31544b32/)
-[![Instagram Badge](https://img.shields.io/badge/-Infiaest-white?style=for-the-badge&logo=instagram&link=https://instagram.com/infiaest/)](https://instagram.com/infiaest)
+  #### Find me here:
+  [![Linkedin Badge](https://img.shields.io/badge/-CharlotteLucas-white?style=for-the-badge&logo=Linkedin&logoColor=0077b5&link=https://www.linkedin.com/in/charlotte-lucas-31544b32/)](https://www.linkedin.com/in/charlotte-lucas-31544b32/)
+  [![Instagram Badge](https://img.shields.io/badge/-Infiaest-white?style=for-the-badge&logo=instagram&link=https://instagram.com/infiaest/)](https://instagram.com/infiaest)
 
 
 ### :desktop_computer: Tech
