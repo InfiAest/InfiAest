@@ -25,6 +25,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-white?style=for-the-badge&logo=heroku&logoColor=6762a6)
 ![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=black)
+![Strapi](https://img.shields.io/badge/-Strapi-white?style=for-the-badge&logo=Strapi&logoColor=4e26e0)
 ![WordPress](https://img.shields.io/badge/-WordPress-white?style=for-the-badge&logo=wordpress&logoColor=00749c)
 ![Nextjs](https://img.shields.io/badge/-NEXT.js-white?style=for-the-badge&logo=Next.js&logoColor=black)
 
