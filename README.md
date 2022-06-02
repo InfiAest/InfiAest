@@ -1,16 +1,15 @@
-# Hi, I'm Charlotte 👋
+# Hello 👋
 
-### :raising_hand: Me, myself & I.
-- :mortar_board: I’m currently finishing my final year studying Front-End Development at Noroff
+### :raising_hand: I'm Charlotte.
+I am a British 90's kid based in Norway who is currently finishing my final year studying Front-End Development at Noroff. I'm currently looking for a place to work where I can continue learning, better my skills and build beautiful and functional websites. 
+
+#### Tidbits:
 - :golfing_woman: I’m learning how to play golf in my spare time
 - :camera_flash: I love taking photographs, especially of nature
 - :headphones: I'm always listening to music and on the hunt for a new podcast
 - :mage: Lord of the Rings is my favourite triology
 
-  #### Find me here:
-  [![Linkedin Badge](https://img.shields.io/badge/-CharlotteLucas-white?style=for-the-badge&logo=Linkedin&logoColor=0077b5&link=https://www.linkedin.com/in/charlotte-lucas-31544b32/)](https://www.linkedin.com/in/charlotte-lucas-31544b32/)
-  [![Instagram Badge](https://img.shields.io/badge/-Infiaest-white?style=for-the-badge&logo=instagram&link=https://instagram.com/infiaest/)](https://instagram.com/infiaest)
-
+---
 
 ### :desktop_computer: Tech
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=javascript)
@@ -28,6 +27,13 @@
 ![Strapi](https://img.shields.io/badge/-Strapi-white?style=for-the-badge&logo=Strapi&logoColor=4e26e0)
 ![WordPress](https://img.shields.io/badge/-WordPress-white?style=for-the-badge&logo=wordpress&logoColor=00749c)
 ![Nextjs](https://img.shields.io/badge/-NEXT.js-white?style=for-the-badge&logo=Next.js&logoColor=black)
+
+---
+
+  #### Find me here:
+  [![Netlify Badge](https://img.shields.io/badge/-MyPortfolio-white?style=for-the-badge&logo=netlify&link=https://charlottelucas-dev.netlify.app/)](https://charlottelucas-dev.netlify.app/)
+  [![Linkedin Badge](https://img.shields.io/badge/-CharlotteLucas-white?style=for-the-badge&logo=Linkedin&logoColor=0077b5&link=https://www.linkedin.com/in/charlotte-lucas-31544b32/)](https://www.linkedin.com/in/charlotte-lucas-31544b32/)
+  [![Instagram Badge](https://img.shields.io/badge/-Infiaest-white?style=for-the-badge&logo=instagram&link=https://instagram.com/infiaest/)](https://instagram.com/infiaest)
 
 <!--
 **InfiAest/InfiAest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
