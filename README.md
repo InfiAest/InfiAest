@@ -1,7 +1,7 @@
 # Hello 👋
 
 ### :raising_hand: I'm Charlotte.
-I am a 90's kid from England but based in Norway who is currently finishing my final year studying Front-End Development at Noroff. I'm currently looking for a place to work where I can continue learning, better my skills and build beautiful and functional websites. 
+I am a 90's kid from England but based in Norway who has recently finished studying Front-End Development at Noroff. I'm currently looking for a place to work where I can continue learning, better my skills and build beautiful and functional websites. 
 
 #### Tidbits:
 - :golfing_woman: I’m learning how to play golf in my spare time
