@@ -1,11 +1,11 @@
 # Hello 👋
 
 ### :raising_hand: I'm Charlotte.
-I am a 90's kid from England but based in Norway who has recently finished studying Front-End Development at Noroff. I'm currently looking for a place to work where I can continue learning, better my skills and build beautiful and functional websites. 
+I am a 90's kid from England but based in Norway who is working as a Junior Frontend Developer at ConditionALL. I finished studying frontend development at Noroff in June 2022, so i'm still fresh, but I am continuing to learn new things, better my skills and build beautiful and functional pages.
 
 #### Tidbits:
 - :golfing_woman: I’m learning how to play golf in my spare time
-- :camera_flash: I love taking photographs, especially of nature
+- :camera_flash: I love taking photographs, especially of nature and my dog
 - :headphones: I'm always listening to music and on the hunt for a new podcast
 - :mage: Lord of the Rings is my favourite triology
 
